@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 👩‍💻 I'm frontend developer
+- 🌱 I’m currently learning DevOps
+
 
 <!--
 **nataliia-v/nataliia-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
