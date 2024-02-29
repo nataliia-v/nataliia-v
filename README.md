@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👩‍💻 I'm frontend developer
-- 🌱 I’m currently learning DevOps
+- 🌱 Learning DevOps
 
 
 <!--
